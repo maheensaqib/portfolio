@@ -408,27 +408,27 @@ input[type="email"]{
         margin-left: 1rem;
     }
    .Intro{
-    /* flex-direction: column; */
+    flex-direction: column;
     text-align: center;
     flex-wrap: wrap;
     /* margin-right: 6rem; */
     /* background-color: #fe6a0d; */
-    padding-right: 60px;
+    padding-right: 3.75r;
    }
    .introp{
-    margin-left: -80px;
-    margin-right: -80px;
+    margin-left: -5rem;
+    margin-right: -5rem;
     text-align: left;
    }
    .ui,.designer{
     font-size: 2rem;
    }
    .picture{
-     /* margin-left: 17px; */
-     padding-left: 25px;
+     /* margin-right: 17px; */
+     padding-left: 3.5rem;
    }
    .icon{
-    padding-right: 75px;
+    padding-right: 4.6rem;
    }
     .About_me {
         flex-direction: column;
